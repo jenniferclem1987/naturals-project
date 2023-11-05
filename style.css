@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container h5{
+    font-weight:500;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card
+{
+    position: absolute;
+    border: 0px;
+    border-style: none;
+    color: rgb(89, 42, 133);
+    font-family:'Times New Roman', Times, serif;
+        font-weight:600;
+    font-size: xxx-large;
+}
+.card h2{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.btn{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 150px;
+    font-size: 35px;
+}
+.counter{
+    color: rgb(89, 42, 133);
+     font-weight: bold;
+    }
+    .num1{
+        color: black;
+        font-weight: lighter;
+    }
+    .para{
+        position: absolute;
+        right: 45px;
+        font-size:20px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .ttt{
+        text-align: center;
+        font-style:normal;
+        font-weight: lighter;
+    }
+    .card2{
+        background-color: rgba(95, 18, 95, 0.11);
+        height: 450px;
+        width: 500px;
+        text-align: center;
+    }
+    .card2 button{
+        font-size: 20px;
+        color: white;
+      background-color:rgb(89, 42, 133); 
+      border-radius: 50px;
+      border: 0;
+      padding: 10px 10px 10px;
+    }
+    .text-center{
+        color: rgb(89, 42, 133);
+        font-family:'Times New Roman', Times, serif;
+        font-weight:600;
+        font-size: xxx-large;
+        }
+.jenelia{
+    background-color: rgb(89, 42, 133); 
+}
+    
+.jenelia img{
+    margin-top: 15px;
+    margin-left: 550px;
+    
+}
+.textjene{
+    color: white;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    
+}
+.textjene h5{
+    font-size: 25px;
+}
+.textjene h2{
+    font-size: 40px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.textjene button
+    {
+      font-size: 20px;
+      color:rgb(89, 42, 133); 
+      border-radius: 50px;
+      border: 0;
+      padding: 10px 10px 10px;
+}
+.card3{
+    background-color: rgb(89, 42, 133); 
+    height: 450px;
+    width: 500px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 120px;
+    width: 520px;
+    
+}
+.card4{
+    position: absolute;
+    top: 120px;
+    width:600px;
+    
+}
+    .card3 h1{
+        font-weight: lighter;
+    }
+
+.card3 button{
+    font-size: 20px;
+    background-color: white;
+    color:rgb(89, 42, 133); 
+  border-radius: 50px;
+  border: 0;
+  padding: 10px 10px 10px;
+}
+.card5{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 600px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(89, 42, 133); 
+
+}
+.card5 h5{
+    color: black;
+}
+.card5 h1{
+    font-size: 55px;
+    font-weight:100;
+}
+.card5 p{
+    font-size: 24px ;
+    font-weight: lighter;
+}
+.card5 button{
+    border-radius: 30px;
+    background-color: rgb(89, 42, 133);
+    color: white;
+    font-size: 25px;
+    padding: 5px 10px;
+    border: 0;
+}
+.carousel-inner1{
+    margin-left: 720px;
+    width: 580px;
+}
+.natu{
+    font-size: 400px;
+    color: black;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 0.5px rgb(126, 116, 116);
+  position: absolute;
+  top: 3100px;
+  z-index: -1;
+}
+ .cardd h5{
+    color: black;
+
+    
+ }   
+.cardd h1{
+    font-weight:300;
+    font-size: 50px;
+}
+.cardd p{
+    font-size: 20px;
+}
+.cardd button{
+    background-color: rgb(89, 42, 133);
+    color: white;
+    font-size: 25px;
+    padding: 5px 10px;
+    border: 0;
+    border-radius: 30px;
+}
+.testi p{
+    position: absolute;
+    color: black;
+    left: 100px;
+    font-size: 30px;
+    font-weight:180;
+}
+.testi h1{
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(89, 42, 133);  
+    font-size: xxx-large;  
+    font-weight:540; 
+    left: 100px;
+}
+.cardsci img{
+           position: absolute;
+           left: 400px;
+             margin-top: -300px; 
+             z-index:-1000;
+    
+}
+.container{
+    font-size: 20px;
+      line-break: auto;
+}
+.r1{
+    font-weight: lighter;
+    font-size: 15px;    
+}
+.r2{
+    font-weight: lighter;
+    font-size: 15px;    
+}
+.r3{
+    font-weight: lighter;
+    font-size: 15px;    
+}
+.r4{
+    font-weight: bold;
+    font-size: 15px;    
+}
+h6{
+    font-weight: bold;
+}
+i{
+    background-color: white;
+    color:rgb(89, 42, 133);      
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 5px;
+}
+h5{
+    font-size:medium;
+    font-weight: lighter;
+}
+
+
+
+
+
+
+
